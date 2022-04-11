@@ -1,1 +1,2 @@
 https://www.akin.im/2022/03/13/dem-bu-dem/
+https://www.hanselman.com/blog/parallelforeachasync-in-net-6
